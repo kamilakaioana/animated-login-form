@@ -22,8 +22,8 @@ body{
     border-top-left-radius: 50px;
     border-bottom-right-radius: 50px;
     border: 1px solid #001f6b;
-
-    
+    background: linear-gradient(27deg, #5870cb 50%, #8c9eff 50%);
+       
 }
 
 .form-body img{
@@ -102,3 +102,4 @@ body{
     background: linear-gradient(#e1bee7, #001f6b);
 
 }
+
